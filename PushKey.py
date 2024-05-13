@@ -4,7 +4,7 @@ import pandas as pd # pip install pandas openpyxl
 from pushbullet import Pushbullet # pip install pushbullet.py
 
 # API KEY PushBullet (https://www.pushbullet.com/)
-API_KEY = "o.dja2rdGrk50PIRkIep0IOjdrJKvXjhWL"
+API_KEY = ""
 
 # Get Link to Chatfile from Pushbullet
 pb = Pushbullet(API_KEY)
